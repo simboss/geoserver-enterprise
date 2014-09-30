@@ -1,8 +1,8 @@
-/* Copyright (c) 2011 GeoSolutions - http://www.geo-solutions.it/.  All rights reserved.
+/* (c) 2014 Open Source Geospatial Foundation - all rights reserved
+ * (c) 2001 - 2013 OpenPlans
  * This code is licensed under the GPL 2.0 license, available at the root
  * application directory.
  */
-
 package it.geosolutions.geoserver.jms.configuration;
 
 import it.geosolutions.geoserver.jms.JMSFactory;
